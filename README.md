@@ -1,2 +1,2 @@
 # Hacker_Solution
-Solution of HackerRank Question
+"Welcome to my HackerRank Java Solutions Repository! Here, you'll find my solutions to various HackerRank problems implemented in Java. Whether you're a beginner looking to learn Java or an experienced developer seeking to hone your skills, this repository offers a valuable resource for mastering algorithms and problem-solving techniques. Feel free to explore, learn, and contribute as we embark on this coding journey together!"
