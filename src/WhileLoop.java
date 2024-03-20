@@ -6,10 +6,13 @@ public class WhileLoop {
 		Scanner sc= new Scanner(System.in);
 		int n = sc.nextInt();
 		int num=1;
+		sum=0;
 		while(num<=n){
-			System.out.println(num);
+			//System.out.println(num);
+			sum=num+sum;
 			num++;
 		}
+		System.out.println(sum);
 
 	}
 
