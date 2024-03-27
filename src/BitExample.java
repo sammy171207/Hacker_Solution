@@ -11,7 +11,7 @@ public class BitExample {
         System.out.println(p >> 2);
         
         System.out.println(q << 1);
-        System.out.println(q >> 2);
+        System.out.println(q >> 2);;
 	}
 
 }
